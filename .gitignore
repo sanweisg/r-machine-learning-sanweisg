@@ -1,0 +1,16 @@
+# Output
+output/
+*.csv
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.log
